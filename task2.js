@@ -9,4 +9,4 @@ function sum (array) {
     )
 }
 
-console.log(sum.call([5, 5, 5, 5, 5, 5, 5, 5, 5], [1]));
+console.log(sum.call([5, 5, 5, 5, 5, 5, 5, 5, 5]));
